@@ -1,3 +1,5 @@
+Codes learn from 'vuemastery-mastering Vuex'
+
 ## Project setup
 
 ```
