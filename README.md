@@ -23,3 +23,23 @@ npm run build
 ```
 npm run lint
 ```
+
+### Add json server
+```
+npm install -g json-server
+```
+
+### Watch json data
+```
+json-server --watch db.json
+```
+
+### Add vuejs datepicker
+``` 
+npm install vuejs-datepicker --save
+```
+
+### Add Ajox
+```
+npm install axios
+```
